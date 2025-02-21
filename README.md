@@ -51,5 +51,5 @@ This project is licensed under the MIT License.
 
 
 ---
-Developed by [Om Ghumre](https://github.com/omghumre) 🚀
+Developed by [Om Ghumre](https://github.com/omghumre) 
 
